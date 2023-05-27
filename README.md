@@ -1,1 +1,2 @@
-# P04-Access-Control
+# P04 Access Control
+In this assignment, I developed a simple “access control” program. A program much like this one (although more complex) is used to maintain access to the shared computers in the instructional lab. An access control system maintains a record of valid users and their properties. In order to gain access to the machine, a user must accurately report their matching name and password.
